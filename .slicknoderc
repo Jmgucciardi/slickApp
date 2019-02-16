@@ -1,0 +1,11 @@
+{
+  "default": {
+    "endpoint": "https://slickapp-194188d7.us-east1.slicknode.com",
+    "version": "UHJvamVjdFZlcnNpb246ODY",
+    "alias": "slickapp-194188d7",
+    "consoleUrl": "https://console.slicknode.com/p/slickapp-194188d7",
+    "playgroundUrl": "https://console.slicknode.com/p/slickapp-194188d7/playground",
+    "name": "slickApp",
+    "id": "UHJvamVjdDoyMA"
+  }
+}
